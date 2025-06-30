@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #000;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+#dvd-container {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+#dvd-logo {
+  position: absolute;
+  width: 12vw;
+  min-width: 80px;
+  max-width: 200px;
+  aspect-ratio: 4/2; /* maintains logo shape */
+  user-select: none;
+  pointer-events: none;
+  will-change: transform;
+}
