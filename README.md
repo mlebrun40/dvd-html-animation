@@ -1,4 +1,3 @@
-Generate a readme.md
 # DVD Animation in HTML/CSS/JS
 This project is a simple implementation of the classic DVD screensaver animation using HTML, CSS, and JavaScript. The animation features a DVD logo bouncing around the screen, changing direction when it hits the edges.
 ## Features
